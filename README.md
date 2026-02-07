@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-min-ln@deno/mod.js';
+import FLOAT32_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-min-ln@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT32_MIN_LN
@@ -67,7 +67,7 @@ var bool = ( FLOAT32_MIN_LN === -87.3365478515625 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-min-ln@deno/mod.js';
+import FLOAT32_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-min-ln@v0.1.1-deno/mod.js';
 
 console.log( FLOAT32_MIN_LN );
 // => -87.3365478515625
